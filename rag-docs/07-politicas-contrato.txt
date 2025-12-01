@@ -1,0 +1,65 @@
+TELECOM BOLIVIANET - POLÍTICAS DE CONTRATO Y CONDICIONES DEL SERVICIO
+
+Contrato de servicio
+Al contratar el servicio de internet de Telecom Bolivianet, el cliente acepta los términos y condiciones del contrato. El contrato se firma digitalmente o de forma física al momento de la instalación.
+
+Período de permanencia
+- Planes residenciales: 12 meses de permanencia mínima
+- Planes empresariales: 12 meses de permanencia mínima con opción de 24 meses con descuento
+- Al vencer el período de permanencia, el contrato se renueva automáticamente por períodos mensuales hasta que alguna de las partes notifique la cancelación
+
+Penalidades por cancelación anticipada
+Si el cliente cancela el contrato antes de cumplir el período de permanencia:
+- Cancelación en el primer trimestre (meses 1-3): penalidad equivalente a 3 meses de servicio
+- Cancelación en el segundo trimestre (meses 4-6): penalidad equivalente a 2 meses de servicio
+- Cancelación en el tercer trimestre (meses 7-9): penalidad equivalente a 1 mes de servicio
+- Cancelación en el último trimestre (meses 10-12): sin penalidad
+Las penalidades no aplican si la cancelación se debe a falla permanente del servicio atribuible a Telecom Bolivianet que no se resuelva en 15 días hábiles.
+
+Suspensión del servicio
+Telecom Bolivianet puede suspender el servicio en los siguientes casos:
+- Falta de pago pasados 20 días del vencimiento de la factura
+- Uso del servicio para actividades ilegales o que violen la normativa boliviana
+- Uso del servicio para reventas no autorizadas o conexiones múltiples no contratadas
+- Solicitud expresa del titular del contrato
+
+Uso aceptable del servicio
+El cliente se compromete a usar el servicio de internet para actividades legales y conforme a la normativa boliviana. Está prohibido:
+- Compartir la conexión de internet de forma comercial (reventa) sin autorización de Telecom Bolivianet
+- Usar el servicio para actividades que violen derechos de autor
+- Realizar ataques informáticos o actividades maliciosas
+- Saturar intencionalmente la red de Telecom Bolivianet
+
+Velocidad y calidad del servicio
+Telecom Bolivianet garantiza entregar al menos el 70% de la velocidad contratada de forma sostenida. Las velocidades máximas son referenciales y pueden variar según factores técnicos. En caso de velocidades sostenidas por debajo del 50% de lo contratado, el cliente puede solicitar revisión técnica sin costo.
+
+Mantenimiento programado
+Telecom Bolivianet realiza mantenimientos programados de su infraestructura. Se notifica con al menos 24 horas de anticipación a través de WhatsApp y correo electrónico. Los mantenimientos programados no generan derecho a descuento en la factura.
+
+Transferencia del contrato
+El contrato de servicio es personal e intransferible. Sin embargo, en caso de fallecimiento del titular, un familiar directo puede solicitar la transferencia del contrato presentando la documentación legal correspondiente. En caso de cambio de propietario de un inmueble, se puede gestionar el cambio de titular con la documentación pertinente.
+
+Modificaciones al contrato
+Telecom Bolivianet puede modificar los precios o condiciones del servicio con un preaviso de 30 días. En caso de aumento de precio, el cliente tiene derecho a cancelar el contrato sin penalidad dentro de los 30 días siguientes a la notificación.
+
+Protección de datos personales
+Telecom Bolivianet cumple con la normativa boliviana de protección de datos personales. Los datos del cliente se usan exclusivamente para la prestación del servicio, la facturación y las comunicaciones relacionadas con la cuenta. No se comparten datos con terceros sin autorización expresa del cliente.
+
+Resolución de conflictos
+Ante cualquier reclamo o desacuerdo, el cliente puede:
+1. Presentar su reclamo directamente a Telecom Bolivianet por WhatsApp, correo o en oficina
+2. Si no se resuelve en 15 días hábiles, presentar el reclamo ante la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT) de Bolivia
+3. Recurrir a instancias judiciales conforme a la legislación boliviana vigente
+
+Responsabilidades del cliente
+El cliente es responsable de:
+- Cuidar los equipos entregados en comodato (router, ONT)
+- No permitir que terceros manipulen o modifiquen los equipos de Telecom Bolivianet
+- Notificar cualquier daño a los equipos o cambio de dirección con anticipación
+- Mantener actualizada la información de contacto (número de teléfono, correo electrónico)
+
+Devolución de equipos
+Al finalizar el contrato por cualquier motivo, el cliente debe devolver el router y el ONT en buen estado de funcionamiento dentro de los 15 días siguientes a la fecha de cancelación. Si no se devuelven los equipos o llegan dañados por mal uso, se cobrará:
+- Router WiFi: Bs. 350 de costo de reposición
+- ONT: Bs. 280 de costo de reposición
+El desgaste normal del equipo por el paso del tiempo no genera cargo al cliente.

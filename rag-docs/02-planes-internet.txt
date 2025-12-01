@@ -1,0 +1,66 @@
+TELECOM BOLIVIANET - PLANES DE INTERNET DISPONIBLES
+
+Todos nuestros planes incluyen:
+- Conexión de fibra óptica simétrica (igual velocidad de descarga y subida)
+- Router WiFi en comodato (préstamo gratuito mientras dure el contrato)
+- Sin límite de datos (internet ilimitado)
+- IP dinámica incluida (IP fija disponible como servicio adicional)
+- Instalación incluida en el precio del primer mes al contratar por primera vez
+- Soporte técnico incluido
+
+PLAN BASICO
+- Velocidad: 10 Mbps de descarga / 10 Mbps de subida
+- Precio mensual: Bs. 120
+- Ideal para: navegar páginas web, redes sociales, mensajería, email
+- Usuarios simultáneos recomendados: 1 a 2 dispositivos
+- Streaming: hasta 720p (HD)
+
+PLAN PLATA (SILVER)
+- Velocidad: 25 Mbps de descarga / 25 Mbps de subida
+- Precio mensual: Bs. 180
+- Ideal para: familias pequeñas, trabajo en casa básico, videollamadas
+- Usuarios simultáneos recomendados: 3 a 5 dispositivos
+- Streaming: hasta 1080p (Full HD), YouTube, Netflix básico
+
+PLAN ORO (GOLD)
+- Velocidad: 50 Mbps de descarga / 50 Mbps de subida
+- Precio mensual: Bs. 250
+- Ideal para: familias numerosas, trabajo en casa profesional, gaming casual
+- Usuarios simultáneos recomendados: 6 a 10 dispositivos
+- Streaming: 4K, múltiples pantallas simultáneas
+
+PLAN PLATINO (PLATINUM)
+- Velocidad: 100 Mbps de descarga / 100 Mbps de subida
+- Precio mensual: Bs. 350
+- Ideal para: hogares con alta demanda, pequeñas empresas, streamers
+- Usuarios simultáneos recomendados: 10 a 20 dispositivos
+- Streaming: 4K en múltiples pantallas, videollamadas grupales
+
+PLAN EMPRESARIAL
+- Velocidad: 200 Mbps de descarga / 200 Mbps de subida
+- Precio mensual: Bs. 600
+- Ideal para: empresas medianas, oficinas, locales comerciales
+- Incluye: IP fija, SLA de disponibilidad garantizada, soporte prioritario
+- Usuarios simultáneos recomendados: hasta 50 dispositivos
+
+PLAN EMPRESARIAL PLUS
+- Velocidad: 500 Mbps de descarga / 500 Mbps de subida
+- Precio mensual: Bs. 1.200
+- Ideal para: empresas grandes, edificios de oficinas, data centers pequeños
+- Incluye: IP fija dedicada, SLA premium, técnico asignado, soporte 24/7
+
+Condiciones y términos de los planes
+- El contrato mínimo es de 12 meses para planes residenciales. Al finalizar, el contrato se renueva automáticamente por meses.
+- Para cancelar el servicio, se debe notificar con 30 días de anticipación y no tener deuda pendiente.
+- Los precios no incluyen IVA (13%). El precio final en factura incluye IVA.
+- Las velocidades indicadas son las velocidades contratadas. La velocidad efectiva puede variar según la distancia al nodo más cercano, la cantidad de dispositivos conectados y el tráfico de red.
+- En horas pico (18:00 a 22:00) la velocidad puede reducirse hasta un 20% en planes residenciales.
+
+Cambio de plan
+Puedes solicitar un cambio de plan en cualquier momento. El cambio se aplica al inicio del siguiente ciclo de facturación. Si cambias a un plan superior, el incremento se cobra proporcional al tiempo restante del mes actual.
+
+Servicios adicionales disponibles
+- IP fija dedicada: Bs. 50 adicionales por mes
+- WiFi extensor (repetidor): Bs. 30 adicionales por mes (en comodato)
+- Antivirus y seguridad en la nube: Bs. 25 adicionales por mes
+- Respaldo por 4G (failover automático): Bs. 80 adicionales por mes (disponible en plan Gold o superior)

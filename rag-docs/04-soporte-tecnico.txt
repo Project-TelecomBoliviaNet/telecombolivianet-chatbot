@@ -1,0 +1,72 @@
+TELECOM BOLIVIANET - GUÍA DE SOPORTE TÉCNICO
+
+PROBLEMA 1: No tengo internet / No hay conexión
+Pasos para resolver:
+1. Verificar que el router esté encendido. Las luces del router deben estar encendidas. Si están apagadas, revisar que el cable de corriente esté bien conectado.
+2. Reiniciar el router: apagar el equipo desconectando el cable de corriente, esperar 30 segundos y volver a conectar. Esperar 2 minutos hasta que se estabilice.
+3. Verificar las luces del router: debe haber una luz de internet o WAN encendida en color azul o verde. Si está en rojo o apagada, hay un problema en la línea.
+4. Verificar el ONT (caja pequeña generalmente ubicada cerca de la entrada de cable): debe tener luz verde estable. Si está en rojo o intermitente, hay una falla en la fibra óptica.
+5. Revisar que el cable de red entre el ONT y el router esté bien conectado en ambos extremos.
+6. Intentar conectarse directamente por cable de red al router (sin WiFi) para descartar problemas del WiFi.
+Si los pasos anteriores no resuelven el problema, comunicarse con soporte técnico para una revisión remota o programar una visita técnica.
+
+PROBLEMA 2: Internet muy lento
+Pasos para resolver:
+1. Realizar una prueba de velocidad en fast.com o speedtest.net para comparar con la velocidad contratada.
+2. Revisar la cantidad de dispositivos conectados al mismo tiempo. Si hay muchos dispositivos usando el internet simultáneamente, la velocidad se divide entre todos.
+3. Reiniciar el router (apagar 30 segundos, volver a encender).
+4. Si se usa WiFi, verificar la distancia al router. Las paredes y las distancias largas reducen la señal WiFi. Intentar acercarse al router o conectarse por cable.
+5. Verificar que no haya descargas o actualizaciones automáticas en curso en los dispositivos (Windows Update, actualizaciones de aplicaciones).
+6. Si el problema ocurre solo en horas específicas (especialmente 18:00 a 22:00), puede ser congestión horaria. Este es un comportamiento normal en planes residenciales.
+7. Si la velocidad es significativamente menor al 70% de lo contratado durante el día y sin otros dispositivos conectados, contactar a soporte técnico para diagnóstico.
+
+PROBLEMA 3: WiFi no aparece o no me puedo conectar al WiFi
+Pasos para resolver:
+1. Verificar que el router esté encendido y que la luz de WiFi esté activada.
+2. Buscar la red WiFi desde el dispositivo. Si no aparece, reiniciar el router.
+3. Verificar que se esté ingresando la contraseña correcta. La contraseña del WiFi está en la etiqueta pegada en la parte inferior del router.
+4. Si la red aparece pero no conecta, olvidar la red en el dispositivo y volver a conectarse ingresando la contraseña.
+5. Si el problema es solo en un dispositivo, puede ser un problema del dispositivo y no del router.
+6. Si ningún dispositivo puede conectarse al WiFi pero el internet funciona por cable, el módulo WiFi del router puede estar dañado. Contactar a soporte.
+
+PROBLEMA 4: Intermitencia (el internet se corta y vuelve)
+Pasos para resolver:
+1. Verificar las conexiones físicas: asegurarse de que todos los cables (corriente, cable de red, cable de fibra) estén firmemente conectados.
+2. Revisar si hay movimientos o vibraciones cerca del ONT o del router que puedan aflojar los cables.
+3. Verificar si el problema ocurre en momentos específicos o es constante.
+4. Si tiene protector de voltaje o UPS, verificar que esté funcionando correctamente.
+5. Las intermitencias pueden ser causadas por daños en el cable de fibra exterior (por ejemplo, por rozamiento con ramas de árbol, viento fuerte o trabajos de construcción cerca).
+Contactar a soporte técnico indicando la frecuencia y horario de las intermitencias para diagnóstico.
+
+PROBLEMA 5: No llega señal WiFi a ciertas partes de la casa
+Pasos para resolver:
+1. Reubicar el router a un lugar más central de la vivienda, preferiblemente en altura.
+2. Evitar colocar el router cerca de electrodomésticos, hornos microondas o teléfonos inalámbricos que interfieren con la señal WiFi.
+3. Usar la banda de 5 GHz para dispositivos cercanos al router (más rápida) y la banda de 2.4 GHz para dispositivos lejanos (mayor alcance).
+4. Si la casa es grande o tiene varias plantas, puede necesitar un repetidor de señal (extensor WiFi). Telecom Bolivianet ofrece extensores en comodato por Bs. 30 adicionales al mes.
+
+Niveles de soporte técnico
+Nivel 1 - Autoservicio: Los pasos mencionados arriba que el cliente puede realizar por su cuenta.
+Nivel 2 - Soporte remoto: Un técnico de Telecom Bolivianet revisa el equipo de forma remota y puede realizar ajustes en la configuración. Se coordina por WhatsApp o llamada telefónica. Tiempo de respuesta: mismo día en horario laboral.
+Nivel 3 - Visita técnica: Un técnico visita el domicilio para resolver problemas que no pueden solucionarse de forma remota. Tiempo de respuesta: 24 a 48 horas hábiles. La primera visita técnica por fallas del servicio es gratuita.
+
+Cuándo crear un ticket de soporte técnico
+Se debe crear un ticket de soporte cuando:
+- El internet no funciona por más de 2 horas seguidas
+- La velocidad es inferior al 50% de la contratada de forma consistente
+- Hay intermitencias frecuentes (más de 3 veces al día)
+- El router o el ONT muestran luces de error persistentes
+- Se requiere una visita técnica a domicilio
+
+Información necesaria al reportar una falla
+Al contactar a soporte, tener a mano:
+- Código de cliente TBN
+- Descripción del problema (desde cuándo ocurre, si es permanente o intermitente)
+- Luces del router y del ONT en ese momento
+- Resultado de la prueba de velocidad si aplica
+- Si ya realizó el reinicio del router
+
+Tiempos de atención de tickets
+- Tickets urgentes (sin servicio): atención en máximo 4 horas en horario laboral
+- Tickets de velocidad baja: atención en máximo 24 horas
+- Tickets de configuración y consultas: atención en máximo 48 horas

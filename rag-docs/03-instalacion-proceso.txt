@@ -1,0 +1,49 @@
+TELECOM BOLIVIANET - PROCESO DE INSTALACIÓN Y COSTOS
+
+Requisitos para solicitar instalación
+Para solicitar la instalación del servicio de internet es necesario:
+1. Tener cobertura en tu domicilio o empresa (consultar disponibilidad)
+2. Presentar una copia del carnet de identidad del titular del contrato
+3. Proporcionar la dirección exacta del domicilio donde se instalará el servicio
+4. Confirmar la disponibilidad de un adulto en el domicilio el día de la instalación
+5. Tener acceso a un toma de corriente cerca del lugar donde se instalará el router
+
+Costos de instalación
+- Instalación residencial estándar (hasta 30 metros de cable): GRATIS al contratar por primera vez
+- Instalación con tendido de cable adicional (por cada 10 metros extra): Bs. 35
+- Instalación en edificio con ductos o trabajo en altura: Bs. 150 adicional
+- Reinstalación por cambio de domicilio: Bs. 120
+- Segunda visita técnica por inasistencia del cliente: Bs. 80
+
+Equipos incluidos en la instalación
+- Router WiFi 5 dual band (2.4 GHz y 5 GHz): en comodato, sin costo adicional
+- Cable de fibra óptica hasta el domicilio: incluido
+- ONT (convertidor de fibra a cable de red): incluido, no es propiedad del cliente
+
+El cliente puede adquirir su propio router si prefiere. En ese caso, Telecom Bolivianet solo instala hasta el ONT y el cliente conecta su propio equipo.
+
+Pasos del proceso de instalación
+Paso 1 - Solicitud: El cliente solicita la instalación por WhatsApp, llamada o en oficina.
+Paso 2 - Verificación de cobertura: El equipo técnico verifica si hay infraestructura disponible en la dirección indicada. Este proceso tarda entre 24 y 48 horas hábiles.
+Paso 3 - Coordinación de visita: Se agenda una visita técnica según la disponibilidad del cliente y los técnicos disponibles. Se ofrecen slots de mañana (08:00-12:00) y tarde (13:00-17:00).
+Paso 4 - Firma de contrato: El cliente firma el contrato de servicio. Se puede firmar el mismo día de la instalación o antes.
+Paso 5 - Instalación técnica: El técnico llega al domicilio, instala el cable de fibra, el ONT y el router. La instalación estándar toma entre 1 y 2 horas.
+Paso 6 - Prueba de conexión: El técnico verifica la velocidad y la calidad de la señal antes de retirarse.
+Paso 7 - Entrega de credenciales: El técnico entrega al cliente la información del WiFi (nombre de red y contraseña) y el código de cliente TBN.
+
+Tiempos de instalación
+- Clientes en zona con infraestructura disponible: 3 a 5 días hábiles desde la solicitud
+- Clientes en zona nueva que requiere tendido de fibra: 10 a 20 días hábiles
+- En fechas de alta demanda (inicio y fin de mes): puede extenderse 2 a 3 días adicionales
+
+Qué debe preparar el cliente antes de la instalación
+- Tener libre el acceso al domicilio durante la ventana horaria acordada
+- Indicar al técnico dónde desea que quede ubicado el router
+- Tener una toma de corriente disponible cerca del lugar elegido para el router
+- En caso de departamento o edificio, avisar al encargado del edificio para facilitar el acceso
+
+Cancelación o reprogramación de visita técnica
+Si necesita cancelar o cambiar la fecha de la visita técnica, debe notificar con al menos 4 horas de anticipación por este WhatsApp o llamando a nuestro equipo. Las visitas canceladas con menos de 1 hora de anticipación o donde no se encuentre al cliente en el domicilio generan un cargo de Bs. 80 por segunda visita.
+
+Garantía post-instalación
+Telecom Bolivianet garantiza que el servicio funcionará correctamente desde el primer día. Si en los primeros 7 días después de la instalación se presentan problemas técnicos relacionados con la instalación, la visita de corrección es completamente gratuita.
