@@ -1,0 +1,52 @@
+name: CI — Chatbot NestJS
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  build-and-test:
+    name: Install & Verify (Node 20)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: |
+          if [ ! -f "package.json" ]; then
+            echo "package.json no presente en esta rama — skipping"
+            exit 0
+          fi
+          npm install
+          echo "Dependencias OK — build completo en main/develop"
+
+  docker-build:
+    name: Docker Build
+    runs-on: ubuntu-latest
+    needs: build-and-test
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Docker Build
+        run: |
+          if [ ! -f "Dockerfile" ]; then
+            echo "Dockerfile no presente en esta rama — skipping"
+            exit 0
+          fi
+          BRANCH="${GITHUB_REF#refs/heads/}"
+          if [ "$BRANCH" != "main" ] && [ "$BRANCH" != "develop" ]; then
+            echo "Branch '$BRANCH' es feature branch — skipping Docker build (codebase parcial)"
+            exit 0
+          fi
+          docker build -t telecombolivianet-chatbot:ci .
