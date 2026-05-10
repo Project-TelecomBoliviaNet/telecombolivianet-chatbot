@@ -1,0 +1,124 @@
+version: '3.9'
+
+# ══════════════════════════════════════════════════════════════
+# TELECOM BOLIVIANET - CHATBOT WHATSAPP
+# Docker Compose - Entorno completo de desarrollo
+# ══════════════════════════════════════════════════════════════
+
+networks:
+  bolivianet-net:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  redis_data:
+  minio_data:
+  uploads_data:
+
+services:
+
+  # ─── CHATBOT (NestJS) ────────────────────────────────────────
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bolivianet-chatbot
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      NODE_ENV: development
+    env_file:
+      - .env
+    volumes:
+      - ./src:/app/src
+      - uploads_data:/app/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - bolivianet-net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ─── POSTGRESQL + PGVECTOR ───────────────────────────────────
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: bolivianet-postgres
+    restart: unless-stopped
+    ports:
+      - "5433:5432"          # 5433 en host para no chocar con el PG del sistema C#
+    environment:
+      POSTGRES_USER: chatbot_user
+      POSTGRES_PASSWORD: chatbot_secret
+      POSTGRES_DB: chatbot_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - bolivianet-net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U chatbot_user -d chatbot_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ─── REDIS (Sesiones / contexto de conversación) ─────────────
+  redis:
+    image: redis:7-alpine
+    container_name: bolivianet-redis
+    restart: unless-stopped
+    ports:
+      - "6380:6379"          # 6380 en host
+    command: redis-server --save 60 1 --loglevel warning
+    volumes:
+      - redis_data:/data
+    networks:
+      - bolivianet-net
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ─── MINIO (Almacenamiento de imágenes - producción) ─────────
+  minio:
+    image: minio/minio:latest
+    container_name: bolivianet-minio
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+      - "9001:9001"          # MinIO Console UI
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    command: server /data --console-address ":9001"
+    volumes:
+      - minio_data:/data
+    networks:
+      - bolivianet-net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 30s
+      timeout: 20s
+      retries: 3
+
+  # ─── REDIS COMMANDER (UI para Redis - solo dev) ───────────────
+  redis-commander:
+    image: rediscommander/redis-commander:latest
+    container_name: bolivianet-redis-ui
+    restart: unless-stopped
+    profiles: ["dev-tools"]    # Solo arranca con: docker compose --profile dev-tools up
+    ports:
+      - "8081:8081"
+    environment:
+      REDIS_HOSTS: "local:redis:6379"
+    networks:
+      - bolivianet-net
+    depends_on:
+      - redis
