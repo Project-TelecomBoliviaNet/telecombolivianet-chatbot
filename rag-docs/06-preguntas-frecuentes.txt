@@ -1,0 +1,64 @@
+TELECOM BOLIVIANET - PREGUNTAS FRECUENTES (FAQ)
+
+¿Cuánto cuesta el internet de Telecom Bolivianet?
+Nuestros planes van desde Bs. 120 por mes (Plan Básico de 10 Mbps) hasta Bs. 1.200 por mes (Plan Empresarial Plus de 500 Mbps). El plan más popular para hogares es el Plan Oro de 50 Mbps a Bs. 250 por mes. Todos los planes incluyen internet ilimitado y router WiFi en comodato.
+
+¿Tienen internet ilimitado o hay límite de datos?
+Sí, todos nuestros planes son de internet ilimitado. No existe límite de gigas o datos por mes. Puedes navegar, descargar y hacer streaming sin preocuparte por el consumo de datos.
+
+¿Qué necesito para contratar el servicio?
+Para contratar necesitas: verificar que haya cobertura en tu dirección, presentar tu carnet de identidad, y coordinar una fecha para la instalación. Si eres empresa, también necesitas el NIT de la empresa.
+
+¿Cuánto tiempo tarda la instalación?
+Una vez verificada la cobertura, la instalación se realiza en 3 a 5 días hábiles. En zonas nuevas que requieren tendido de fibra puede tardar hasta 20 días hábiles.
+
+¿La instalación tiene costo?
+La instalación estándar es gratuita al contratar el servicio por primera vez. Solo se cobran cargos adicionales si se necesita más de 30 metros de cable o trabajos especiales en altura o edificios.
+
+¿El router WiFi es mío?
+El router es entregado en comodato, es decir, Telecom Bolivianet te lo presta mientras tengas el servicio. Al cancelar el contrato, debes devolver el equipo en buen estado. Si el equipo se daña por mal uso, deberás pagar el costo de reposición.
+
+¿Cuándo debo pagar mi factura?
+La factura vence el día 5 de cada mes. Si pagas después del día 5, se aplica un recargo por mora. Si no pagas hasta el día 20, el servicio puede suspenderse.
+
+¿Cómo puedo pagar mi factura?
+Puedes pagar escaneando el código QR con tu aplicación bancaria, mediante depósito o transferencia bancaria (enviando el comprobante por WhatsApp), en nuestra oficina en efectivo o con tarjeta, o en puntos de pago autorizados.
+
+¿Cómo sé cuánto debo?
+Puedes consultar tu deuda directamente en este WhatsApp indicando tu código TBN o el número de teléfono de tu contrato. También puedes acceder a tu cuenta en la página web de Telecom Bolivianet.
+
+¿Qué hago si no tengo internet?
+Primero intenta reiniciar el router: desconecta el cable de corriente, espera 30 segundos y vuelve a conectar. Si el problema persiste después de 5 minutos, revisa las luces del equipo y contacta a nuestro soporte técnico por WhatsApp.
+
+¿Puedo cambiar mi plan de internet?
+Sí, puedes cambiar tu plan en cualquier momento. El cambio se aplica desde el inicio del siguiente ciclo de facturación. Si subes de plan, el incremento se cobra proporcional al tiempo restante del mes.
+
+¿Puedo cancelar el contrato cuando quiera?
+El contrato tiene una permanencia mínima de 12 meses. Si cancelas antes, puede aplicar una penalidad. Después del período de permanencia, puedes cancelar con 30 días de aviso previo y sin deuda pendiente.
+
+¿Por qué mi internet es lento?
+Las causas más comunes de lentitud son: muchos dispositivos conectados al mismo tiempo, interferencias en el WiFi, hora pico de uso (18:00 a 22:00), o problemas en la red. Para verificar, haz una prueba de velocidad en fast.com. Si la velocidad es menor al 70% de lo contratado sin dispositivos adicionales conectados, contacta a soporte técnico.
+
+¿Funciona el internet durante cortes de luz?
+El router y el ONT necesitan energía eléctrica para funcionar. Durante un corte de luz, el servicio de internet no funciona a menos que tengas un UPS o batería de respaldo. Telecom Bolivianet ofrece un servicio adicional de respaldo por 4G para planes Gold o superiores.
+
+¿Tienen servicio para empresas?
+Sí, ofrecemos planes empresariales desde Bs. 600 por mes con IP fija incluida y soporte prioritario. Para empresas grandes con requerimientos especiales, podemos diseñar soluciones a medida. Consulta con nuestro equipo de ventas.
+
+¿El internet funciona en toda Bolivia?
+Actualmente tenemos cobertura en zonas seleccionadas de La Paz, Cochabamba y Santa Cruz. Estamos expandiendo nuestra red constantemente. Para verificar si tu dirección tiene cobertura, envíanos tu dirección completa por WhatsApp.
+
+¿Puedo llevarme el servicio si me mudo?
+Sí, puedes trasladar el servicio a tu nuevo domicilio si hay cobertura disponible. El traslado tiene un costo de Bs. 120. Si en el nuevo domicilio no hay cobertura, puedes cancelar el contrato sin penalidad.
+
+¿Cómo obtengo mi código TBN?
+El código TBN se asigna al momento de la instalación y aparece en tu contrato y en las facturas mensuales. Si no lo recuerdas, puedes solicitarlo a través de este WhatsApp indicando el número de teléfono registrado en tu contrato.
+
+¿El precio incluye IVA?
+Los precios anunciados de los planes no incluyen IVA (13%). El precio final que aparece en la factura incluye el IVA. Por ejemplo, el Plan Plata de Bs. 180 + 13% IVA = Bs. 203.40 en factura.
+
+¿Qué velocidad necesito para trabajar en casa?
+Para trabajo en casa con videollamadas, manejo de archivos en la nube y aplicaciones empresariales, recomendamos mínimo el Plan Plata (25 Mbps). Si además hay otros miembros de la familia usando el internet al mismo tiempo, el Plan Oro (50 Mbps) es la mejor opción.
+
+¿Qué velocidad necesito para Netflix o streaming en 4K?
+Netflix en 4K requiere mínimo 25 Mbps por pantalla. Para una pantalla en 4K recomendamos el Plan Oro (50 Mbps), y para múltiples pantallas simultáneas en 4K el Plan Platino (100 Mbps).

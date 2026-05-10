@@ -1,0 +1,53 @@
+TELECOM BOLIVIANET - PAGOS Y FACTURACIÓN
+
+Ciclo de facturación
+La factura se genera el día 1 de cada mes por el servicio del mes vigente. La fecha de vencimiento de pago es el día 5 de cada mes. Si el día 5 cae sábado, domingo o feriado, el vencimiento se extiende al siguiente día hábil.
+
+Ejemplo: La factura del mes de agosto se emite el 1 de agosto y vence el 5 de agosto.
+
+Consecuencias del pago tardío
+- Pago entre el día 6 y el día 10: recargo por mora del 5% sobre el total de la factura
+- Pago entre el día 11 y el día 20: recargo por mora del 10% sobre el total de la factura
+- Pago después del día 20: el servicio puede ser suspendido temporalmente hasta regularizar el pago
+- Deuda acumulada de 2 o más meses: el servicio puede ser cancelado y el contrato rescindido
+
+Suspensión y reactivación del servicio
+Si el servicio es suspendido por falta de pago, se reactiva automáticamente en un máximo de 2 horas hábiles después de confirmarse el pago. No hay costo adicional por reactivación si es la primera suspensión en 12 meses. A partir de la segunda suspensión en el año, se cobra Bs. 30 de cargo por reactivación.
+
+Métodos de pago aceptados
+1. Pago por QR (código QR de Bolivianet): escaneando el QR con cualquier aplicación bancaria boliviana (Bisa, BCP, Banco Unión, Banco Nacional, Banco Mercantil, etc.). El QR se genera desde el sistema o puede ser enviado por WhatsApp.
+2. Depósito o transferencia bancaria: a la cuenta indicada en la factura. Es obligatorio enviar el comprobante por WhatsApp para que se procese el pago.
+3. Pago en oficina: efectivo o tarjeta de débito/crédito en la oficina central de Telecom Bolivianet.
+4. Pago en agencias autorizadas: en puntos de cobro habilitados. Consultar lista actualizada de puntos de pago.
+
+Cómo enviar un comprobante de pago
+Si realizó un depósito o transferencia bancaria, debe enviar el comprobante de pago por este WhatsApp. El comprobante debe mostrar claramente:
+- Nombre del destinatario o número de cuenta
+- Monto pagado
+- Fecha y hora de la transacción
+- Número de referencia o código de operación
+
+El pago se procesa en un máximo de 4 horas hábiles después de recibir el comprobante. Los pagos recibidos después de las 18:00 se procesan al día hábil siguiente.
+
+Consulta de deuda
+Para consultar su deuda actual, puede preguntar directamente a través de este WhatsApp indicando su código TBN o el número de teléfono registrado en su contrato. También puede consultar en la página web de Telecom Bolivianet ingresando a su cuenta de cliente.
+
+Factura electrónica
+Telecom Bolivianet emite facturas electrónicas autorizadas por el Servicio de Impuestos Nacionales (SIN) de Bolivia. La factura se envía al correo electrónico registrado en el contrato el día 1 de cada mes. Si no recibió su factura, puede solicitarla por WhatsApp indicando su código TBN.
+
+Cambio de datos de facturación
+Para cambiar el nombre, NIT o correo electrónico para la factura, debe comunicarse con atención al cliente y presentar la documentación requerida (carnet de identidad y NIT en caso de empresas). Los cambios aplican desde el siguiente ciclo de facturación.
+
+Facturación a nombre de empresa
+Si el servicio es para una empresa y necesita factura a nombre de la empresa con NIT, debe informarlo al momento de contratar el servicio o contactar a atención al cliente. Se requiere NIT vigente y nombre legal de la empresa.
+
+Pago anticipado y descuentos
+Telecom Bolivianet ofrece las siguientes promociones por pago anticipado:
+- Pago de 3 meses por adelantado: 5% de descuento sobre el total
+- Pago de 6 meses por adelantado: 10% de descuento sobre el total
+- Pago anual (12 meses): 15% de descuento sobre el total
+
+Para acceder a estos descuentos, contactar al equipo de ventas o atención al cliente.
+
+Devoluciones y créditos
+Si Telecom Bolivianet incurre en una interrupción del servicio mayor a 24 horas continuas por causas atribuibles a la empresa, se aplica un crédito automático en la siguiente factura proporcional al tiempo sin servicio. Este crédito se calcula dividiendo el precio mensual entre los días del mes y multiplicando por los días sin servicio. El cliente puede verificar si tiene créditos pendientes consultando a través de este WhatsApp.
